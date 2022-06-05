@@ -1,0 +1,105 @@
+@media screen and (max-width: 821px) {
+  .maincontent {
+    display: block;
+  }
+  .imges {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .imges img {
+    width: 150px;
+    margin-bottom: 20px;
+  }
+  .para-plus {
+    display: block;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .features img {
+    width: 500px;
+  }
+  .part-unlimited {
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .part-unlimited img {
+    width: 500px;
+  }
+  .four-boxs {
+    display: block;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .part-box-what-we-do {
+    display: block;
+    align-items: center;
+    margin: 20px;
+  }
+
+  .line-one-box-what-we-do {
+    display: block;
+    align-items: center;
+    padding-bottom: 0;
+  }
+  .box-what-we-do {
+    width: 30em;
+  }
+
+  .how-k {
+    display: block;
+    flex-direction: column;
+  }
+  .box-how-k {
+    margin-bottom: 20px;
+    padding: 3em 8em;
+  }
+  .boxs-steps {
+    display: block;
+    flex-direction: column;
+  }
+  .boxs-difine-personal {
+    justify-content: center;
+  }
+  .box-responsev {
+    display: none;
+    justify-content: center;
+    align-items: center;
+  }
+  /* .fa-angles-right {
+    position: relative;
+    bottom: 80px;
+    right: 700;
+  } */
+  .text-boxs-loved-by-users .txt-title {
+    font-size: 27px;
+  }
+  .text-boxs-loved-by-users .txt-sub {
+    font-size: 14px;
+  }
+  .three-boxs-find-plan {
+    display: block;
+  }
+  .free-dollar {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  .section-data-business {
+    display: block;
+  }
+  .box-section-data-business {
+    margin-bottom: 35px;
+  }
+  .footer-oliver {
+    display: block;
+  }
+  .data-footer {
+    margin-bottom: 10px;
+    margin-top: 15px;
+  }
+}
